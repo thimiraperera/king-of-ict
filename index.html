@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>King of ICT · Workbooks</title>
 <meta name="description" content="Free ICT student workbooks and teacher guides for Grade 8 and Grade 10 by Chameen Rathnasena - The King of ICT.">
-<meta name="theme-color" content="#111111">
+<meta name="theme-color" content="#f5f3ec">
+<meta name="color-scheme" content="only light">
 <meta property="og:title" content="King of ICT · Workbooks">
 <meta property="og:description" content="Free ICT student workbooks and teacher guides for Grade 8 and Grade 10.">
 <meta property="og:image" content="assets/og-cover.png">
@@ -30,20 +31,7 @@
   --display: "Jost", "Century Gothic", "Futura", sans-serif;
   --body: "Atkinson Hyperlegible", "Verdana", sans-serif;
   --hand: "Patrick Hand", "Comic Sans MS", cursive;
-  color-scheme: light;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper: #131313; --card: #1b1b1b; --ink: #f2efe6; --ink-soft: #d0ccc1; --muted: #a29e93;
-    --rule: #34322d; --dot: rgba(242, 239, 230, .08); --shadow: 0 18px 40px -24px rgba(0,0,0,.9);
-    color-scheme: dark;
-  }
-  :root:not([data-theme="light"]) .hl { color: #121212; }
-}
-:root[data-theme="dark"] {
-  --paper: #131313; --card: #1b1b1b; --ink: #f2efe6; --ink-soft: #d0ccc1; --muted: #a29e93;
-  --rule: #34322d; --dot: rgba(242, 239, 230, .08); --shadow: 0 18px 40px -24px rgba(0,0,0,.9);
-  color-scheme: dark;
+  color-scheme: only light;          /* the teacher wants the light theme only - no dark mode */
 }
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -228,10 +216,6 @@ a { color: inherit; }
   .tab { font-size: 18px; padding: 11px 16px 11px 12px; }
   .foot__small { margin-left: 0; text-align: left; }
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .mast__box { box-shadow: 0 0 0 1px #2f2d29, var(--shadow); }
-}
-:root[data-theme="dark"] .mast__box { box-shadow: 0 0 0 1px #2f2d29, var(--shadow); }
 </style>
 </head>
 <body>
