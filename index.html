@@ -73,6 +73,8 @@ a { color: inherit; }
   font: 600 clamp(17px, 2.6vw, 27px)/1.15 var(--display); letter-spacing: .01em;
 }
 .mast__hand { margin: 12px 0 0; font: 400 clamp(17px, 2.2vw, 22px)/1.2 var(--hand); color: var(--hl); }
+.mast__count { margin: 10px 0 0; font: 500 13px/1.4 var(--display); letter-spacing: .03em; opacity: .9; }
+.mast__count b { color: var(--hl); }
 .mast__crown { width: clamp(64px, 11vw, 132px); filter: invert(1); opacity: .96; }
 
 /* ---------- the author strip (like the book footer) ---------- */
@@ -249,6 +251,7 @@ a { color: inherit; }
           <p class="mast__kicker">Information and Communication Technology</p>
           <h1>ICT <small>Student Workbooks &amp; Teacher Guides</small></h1>
           <p class="mast__hand">“The King of ICT”</p>
+          <p class="mast__count">Student Workbook pages: <b>578</b> · Teacher Guide pages: <b>318</b></p>
         </div>
         <img class="mast__crown" src="assets/crown.png" alt="" width="132" height="82">
       </div>
@@ -659,12 +662,12 @@ a { color: inherit; }
             <p class="unit__no"><span>7 ඒකකය</span></p>
             <h3 class="unit__title">විද්‍යුත් පැතුරුම්පත්</h3>
           </div>
-          <p class="unit__blurb">පැතුරුම්පත් මෘදුකාංග හා කවුළුව, කෝෂ හා කෝෂ පරාස, දත්ත ඇතුළත් කිරීම, මෙහෙයවන හා සූත්‍ර, SUM, AVERAGE, MAX, MIN හා COUNT ශ්‍රිත, වැඩපත හැඩසව් කිරීම, සාපේක්ෂ හා නිරපේක්ෂ යොමු සහ ප්‍රස්තාර.</p>
+          <p class="unit__blurb">පැතුරුම්පත් මෘදුකාංග හා කවුළුව, කෝෂ හා කෝෂ පරාස, මෙහෙයවන හා සූත්‍ර, SUM, AVERAGE, MAX, MIN, COUNT, COUNTA, ROUND, IF හා RANK ශ්‍රිත, හැඩසව් කිරීම, සාපේක්ෂ හා නිරපේක්ෂ යොමු, පිළිවෙළට සැකසීම, පෙරීම සහ ප්‍රස්තාර.</p>
           <ul class="unit__facts">
             <li><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5zm0 0v15M8 7h8M8 10.5h6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span>පිටු 24ක සිසු වැඩපොත</span></li>
-            <li><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 11.5 4.5 7l1.4-1.4L9 8.7l6.8-6.8 1.4 1.4zM5 13h14v8H5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>පිටු 13ක ගුරු මාර්ගෝපදේශය</span></li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 11.5 4.5 7l1.4-1.4L9 8.7l6.8-6.8 1.4 1.4zM5 13h14v8H5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>පිටු 14ක ගුරු මාර්ගෝපදේශය</span></li>
           </ul>
-          <div class="unit__actions"><a class="btn btn--ink" href="grade-10/G10-Unit-07_Student-Tutorial_Sinhala.pdf" download aria-label="10 ශ්‍රේණිය 7 ඒකකය සිසු වැඩපොත බාගත කරන්න, PDF, 1.8 MB"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v11m0 0-4.5-4.5M12 14l4.5-4.5M4 15v3.5A2.5 2.5 0 0 0 6.5 21h11a2.5 2.5 0 0 0 2.5-2.5V15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="btn__txt">සිසු වැඩපොත</span><span class="btn__meta">PDF · 1.8 MB</span></a><a class="btn btn--line" href="grade-10/G10-Unit-07_Teacher-Guide_Sinhala.pdf" download aria-label="10 ශ්‍රේණිය 7 ඒකකය ගුරු මාර්ගෝපදේශය බාගත කරන්න, PDF, 853 KB"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v11m0 0-4.5-4.5M12 14l4.5-4.5M4 15v3.5A2.5 2.5 0 0 0 6.5 21h11a2.5 2.5 0 0 0 2.5-2.5V15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="btn__txt">ගුරු මාර්ගෝපදේශය</span><span class="btn__meta">PDF · 853 KB</span></a></div>
+          <div class="unit__actions"><a class="btn btn--ink" href="grade-10/G10-Unit-07_Student-Tutorial_Sinhala.pdf" download aria-label="10 ශ්‍රේණිය 7 ඒකකය සිසු වැඩපොත බාගත කරන්න, PDF, 2.2 MB"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v11m0 0-4.5-4.5M12 14l4.5-4.5M4 15v3.5A2.5 2.5 0 0 0 6.5 21h11a2.5 2.5 0 0 0 2.5-2.5V15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="btn__txt">සිසු වැඩපොත</span><span class="btn__meta">PDF · 2.2 MB</span></a><a class="btn btn--line" href="grade-10/G10-Unit-07_Teacher-Guide_Sinhala.pdf" download aria-label="10 ශ්‍රේණිය 7 ඒකකය ගුරු මාර්ගෝපදේශය බාගත කරන්න, PDF, 863 KB"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v11m0 0-4.5-4.5M12 14l4.5-4.5M4 15v3.5A2.5 2.5 0 0 0 6.5 21h11a2.5 2.5 0 0 0 2.5-2.5V15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="btn__txt">ගුරු මාර්ගෝපදේශය</span><span class="btn__meta">PDF · 863 KB</span></a></div>
         </div>
       </li>
       <li class="unit" style="--i:7">
@@ -729,7 +732,7 @@ a { color: inherit; }
         <p class="foot__name">Chameen Rathnasena - ICT</p>
         <p class="foot__tag">“The King of ICT”</p>
       </div>
-      <p class="foot__small">48 free PDFs · updated 28 October 2026</p>
+      <p class="foot__small">Student Workbook pages: <b>578</b> · Teacher Guide pages: <b>318</b><br>48 free PDFs · updated 28 October 2026</p>
     </div>
   </div>
 </footer>
