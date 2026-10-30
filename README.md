@@ -63,3 +63,12 @@ Download them from the website: https://thimiraperera.github.io/king-of-ict/ (Si
 - Unit 7 - විද්‍යුත් පැතුරුම්පත්: [සිසු වැඩපොත](grade-10/G10-Unit-07_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-10/G10-Unit-07_Teacher-Guide_Sinhala.pdf)
 - Unit 8 - ඉලෙක්ට්‍රොනික සමර්පණ: [සිසු වැඩපොත](grade-10/G10-Unit-08_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-10/G10-Unit-08_Teacher-Guide_Sinhala.pdf)
 - Unit 9 - දත්ත සමුදාය: [සිසු වැඩපොත](grade-10/G10-Unit-09_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-10/G10-Unit-09_Teacher-Guide_Sinhala.pdf)
+
+## Grade 11 - Sinhala medium (සිංහල මාධ්‍යය)
+
+- Unit 1 - ගැටලු විසඳීමට ක්‍රමලේඛ ලිවීම: [සිසු වැඩපොත - 1 කොටස](grade-11/G11-Unit-01_Student-Tutorial_Part-1_Sinhala.pdf) · [සිසු වැඩපොත - 2 කොටස](grade-11/G11-Unit-01_Student-Tutorial_Part-2_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-01_Teacher-Guide_Sinhala.pdf)
+- Unit 2 - තොරතුරු පද්ධති සංවර්ධන ක්‍රියාවලිය: [සිසු වැඩපොත](grade-11/G11-Unit-02_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-02_Teacher-Guide_Sinhala.pdf)
+- Unit 3 - අන්තර්ජාලය හා විද්‍යුත් තැපෑල: [සිසු වැඩපොත](grade-11/G11-Unit-03_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-03_Teacher-Guide_Sinhala.pdf)
+- Unit 4 - බහුමාධ්‍ය භාවිතය: [සිසු වැඩපොත](grade-11/G11-Unit-04_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-04_Teacher-Guide_Sinhala.pdf)
+- Unit 5 - බහු මාධ්‍ය තාක්ෂණය යොදා ගනිමින් සරල වෙබ් අඩවි නිර්මාණය: [සිසු වැඩපොත](grade-11/G11-Unit-05_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-05_Teacher-Guide_Sinhala.pdf)
+- Unit 6 - සමාජය සහ තොරතුරු හා සන්නිවේදන තාක්ෂණය: [සිසු වැඩපොත](grade-11/G11-Unit-06_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-11/G11-Unit-06_Teacher-Guide_Sinhala.pdf)
