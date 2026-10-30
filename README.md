@@ -34,6 +34,15 @@ Download them from the website: https://thimiraperera.github.io/king-of-ict/ (Si
 - Unit 8 - Electronic Presentations: [Student Workbook](grade-10/G10-Unit-08_Student-Tutorial.pdf) · [Teacher Guide](grade-10/G10-Unit-08_Teacher-Guide.pdf)
 - Unit 9 - Database: [Student Workbook](grade-10/G10-Unit-09_Student-Tutorial.pdf) · [Teacher Guide](grade-10/G10-Unit-09_Teacher-Guide.pdf)
 
+## Grade 11
+
+- Unit 1 - Programming: [Workbook Part 1](grade-11/G11-Unit-01_Student-Tutorial_Part-1.pdf) · [Workbook Part 2](grade-11/G11-Unit-01_Student-Tutorial_Part-2.pdf) · [Teacher Guide](grade-11/G11-Unit-01_Teacher-Guide.pdf)
+- Unit 2 - System Development Life Cycle: [Student Workbook](grade-11/G11-Unit-02_Student-Tutorial.pdf) · [Teacher Guide](grade-11/G11-Unit-02_Teacher-Guide.pdf)
+- Unit 3 - The Internet and the Electronic Mail: [Student Workbook](grade-11/G11-Unit-03_Student-Tutorial.pdf) · [Teacher Guide](grade-11/G11-Unit-03_Teacher-Guide.pdf)
+- Unit 4 - Use of Multimedia: [Student Workbook](grade-11/G11-Unit-04_Student-Tutorial.pdf) · [Teacher Guide](grade-11/G11-Unit-04_Teacher-Guide.pdf)
+- Unit 5 - Web Designing Using Multimedia: [Student Workbook](grade-11/G11-Unit-05_Student-Tutorial.pdf) · [Teacher Guide](grade-11/G11-Unit-05_Teacher-Guide.pdf)
+- Unit 6 - Information and Communication Technology and Society: [Student Workbook](grade-11/G11-Unit-06_Student-Tutorial.pdf) · [Teacher Guide](grade-11/G11-Unit-06_Teacher-Guide.pdf)
+
 ## Grade 9 - Sinhala medium (සිංහල මාධ්‍යය)
 
 - Unit 1 - පරිගණක සහ පර්යන්ත උපාංග මිල දී ගැනීම සඳහා පිරිවිතර සැකසීම: [සිසු වැඩපොත](grade-9/G9-Unit-01_Student-Tutorial_Sinhala.pdf) · [ගුරු මාර්ගෝපදේශය](grade-9/G9-Unit-01_Teacher-Guide_Sinhala.pdf)
